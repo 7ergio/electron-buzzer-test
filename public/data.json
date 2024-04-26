@@ -1,0 +1,179 @@
+{
+  "locations": [
+    {
+      "imageSrc": "images/barfussbar.png",
+      "lqImageSrc": "images/lq-barfussbar.png",
+      "heading": "Barfussbar",
+      "text": "This unique location in the middle of Zurich’s Old Town is a public bath for women by day and a bar and event location by night.",
+      "id": 1
+    },
+    {
+      "imageSrc": "images/baechlinhof.png",
+      "lqImageSrc": "images/lq-baechlinhof.png",
+      "heading": "Bächlihof",
+      "text": "The event location with seasonal activities is both close to the city and in the heart of nature.",
+      "id": 2
+    },
+    {
+      "imageSrc": "images/wein.png",
+      "lqImageSrc": "images/lq-wein.png",
+      "heading": "Wine Fountain",
+      "text": "At this unique place, typical Zurich specialties are accompanied by wine straight from the well.",
+      "id": 3
+    },
+    {
+      "imageSrc": "images/chale.png",
+      "lqImageSrc": "images/lq-chale.png",
+      "heading": "Cabaret Voltaire",
+      "text": "The birthplace of the globally known art movement “Dada” is a waterhole for artists and creative ideas.",
+      "id": 4
+    },
+    {
+      "imageSrc": "images/uetliberg.png",
+      "lqImageSrc": "images/lq-uetliberg.png",
+      "heading": "Uetliberg",
+      "text": "On Zurich’s very own mountain one can relax and enjoy the view or participate in exciting team activities in nature.",
+      "id": 5
+    },
+    {
+      "imageSrc": "images/wildbienen.png",
+      "lqImageSrc": "images/lq-wildbienen.png",
+      "heading": "Wild Bee Excursions",
+      "text": "Experience Zurich from its natural side on this fascinating excursion through the city with the wild bee whisperer.",
+      "id": 6
+    },
+    {
+      "imageSrc": "images/schloss.png",
+      "lqImageSrc": "images/lq-schloss.png",
+      "heading": "Laufen Castle",
+      "text": "The event location at the \"Rhine Falls\", the largest waterfall in Europe, offers breathtaking views as well as a journey from Zurich in a private panoramic train.",
+      "id": 7
+    },
+    {
+      "imageSrc": "images/zoo.png",
+      "lqImageSrc": "images/lq-zoo.png",
+      "heading": "Zurich Zoo Adventure Tour",
+      "text": "Visitors get up close to the 365 animal species on their tour of the zoo or while enjoying cocktails and dinner in the Masoala Hall or Kaeng Krachen Elephant Park.",
+      "id": 8
+    },
+    {
+      "imageSrc": "images/pavillon.png",
+      "lqImageSrc": "images/lq-pavillon.png",
+      "heading": "Pavillon Le Corbusier",
+      "text": "The last finished work by the great architect Le Corbusier is situated in one of the most beautiful places near Lake Zurich and can be rented as an exclusive location for events.",
+      "id": 9
+    },
+    {
+      "imageSrc": "images/tiefenbrunnen.png",
+      "lqImageSrc": "images/lq-tiefenbrunnen.png",
+      "heading": "Kulturareal Mühle Tiefenbrunnen",
+      "text": "The historic site is a traffic-free venue where everybody is welcome to enjoy, eat, bake bread, or visit the museum and theater.",
+      "id": 10
+    },
+    {
+      "imageSrc": "images/oldtimer.png",
+      "lqImageSrc": "images/lq-oldtimer.png",
+      "heading": "Oldtimer Tram",
+      "text": "In Zurich’s most important means of transport, sightseeing goes hand in hand with a glitzy after-work party.",
+      "id": 11
+    },
+    {
+      "imageSrc": "images/fifa.png",
+      "lqImageSrc": "images/lq-fifa.png",
+      "heading": "FIFA Museum",
+      "text": "The museum not only features more than 1,000 exhibition pieces including the original FIFA World Cup TrophyTM, but also offers a lot of space for meetings and conventions.",
+      "id": 12
+    },
+    {
+      "imageSrc": "images/bar.png",
+      "lqImageSrc": "images/lq-bar.png",
+      "heading": "Bar am Wasser",
+      "text": "As simple as its name, as extravagant are the drinks and service from the award-winning bartender.",
+      "id": 13
+    },
+    {
+      "imageSrc": "images/samigo.png",
+      "lqImageSrc": "images/lq-samigo.png",
+      "heading": "Samigo",
+      "text": "A location for all the senses: Located on Lake Zurich, the hot spot unites show restaurant, Sunday brunch, rooftop bar, and a sports field under one roof.",
+      "id": 14
+    },
+    {
+      "imageSrc": "images/ace.png",
+      "lqImageSrc": "images/lq-ace.png",
+      "heading": "ACE Arena Convention Expo",
+      "text": "The joint facilities of Hallenstadion and Messe Zürich offer a lot of space for large events of up to 10,000 people per day.",
+      "id": 15
+    },
+    {
+      "imageSrc": "images/marriott.png",
+      "lqImageSrc": "images/lq-marriott.png",
+      "heading": "Zurich Marriott Hotel",
+      "text": "Located just behind Zurich’s main train station and within walking distance of the Old Town, the elegant Zurich Marriott Hotel is the perfect spot to enjoy city life and jump into the river in summer.",
+      "id": 16
+    },
+    {
+      "imageSrc": "images/dorint.png",
+      "lqImageSrc": "images/lq-dorint.png",
+      "heading": "Dorint Airport-Hotel Zurich",
+      "text": "The four-star hotel was built akin to the Swiss cross and offers, thanks to its vicinity to the airport and the city center, the perfect starting point for excursions.",
+      "id": 17
+    },
+    {
+      "imageSrc": "images/convention.png",
+      "lqImageSrc": "images/lq-convention.png",
+      "heading": "Zurich Convention Center",
+      "text": "The newly renovated Zurich Convention Center is situated on a spectacular location near Lake Zurich and is taking on a pioneering role in climate protection. The building is also home to the world-renowned Tonhalle Orchestra.",
+      "id": 18
+    },
+    {
+      "imageSrc": "images/eth.png",
+      "lqImageSrc": "images/lq-eth.png",
+      "heading": "ETH Zurich",
+      "text": "Europe’s leading institute of technology is promoting innovation in the fields of robotics, life sciences, fintech, food tech, ICT, and advanced manufacturing, and opens doors to a fascinating network.",
+      "id": 19
+    },
+    {
+      "imageSrc": "images/illuminarium.png",
+      "lqImageSrc": "images/lq-illuminarium.png",
+      "heading": "Illuminarium",
+      "text": "In winter, a magic world of light, illusion, and music opens up in the courtyard of the National Museum. Bars, a fondue chalet and the many food stands cater the guests.",
+      "id": 20
+    },
+    {
+      "imageSrc": "images/fischerstube.png",
+      "lqImageSrc": "images/lq-fischerstube.png",
+      "heading": "Fischerstube",
+      "text": "The offer is simple: uncomplicated cuisine, Mediterranean atmosphere, and fresh fish from lake Zurich.",
+      "id": 21
+    },
+    {
+      "imageSrc": "images/dolder.png",
+      "lqImageSrc": "images/lq-dolder.png",
+      "heading": "Dolder Sports",
+      "text": "Belonging to the five-star hotel, The Dolder Grand, Dolder Sports has been a popular destination for activities and events in nature for decades.",
+      "id": 22
+    },
+    {
+      "imageSrc": "images/enea.png",
+      "lqImageSrc": "images/lq-enea.png",
+      "heading": "Enea Tree Museum",
+      "text": "Voted two times in a row the most beautiful event location in Switzerland, the impressive park unites landscaping, botany, architecture, art, and design.",
+      "id": 23
+    },
+    {
+      "imageSrc": "images/lindt.png",
+      "lqImageSrc": "images/lq-lindt.png",
+      "heading": "Lindt Home of Chocolate",
+      "text": "A 9-meter-high chocolate fountain and workshops with the Maître Chocolatier are the epitome of the relish of chocolate.",
+      "id": 24
+    },
+    {
+      "imageSrc": "images/kunsthaus.png",
+      "lqImageSrc": "images/lq-kunsthaus.png",
+      "heading": "Kunsthaus Zürich",
+      "text": "Switzerland’s biggest art museum with its light-filled architecture by David Chipperfield features different spaces for meetings and events.",
+      "id": 25
+    }
+  ]
+}
